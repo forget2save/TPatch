@@ -1,0 +1,9 @@
+[submodule "yolov3"]
+	path = yolov3
+	url = https://github.com/ultralytics/yolov3.git
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5.git
+[submodule "detmetrics"]
+	path = detmetrics
+	url = https://github.com/rafaelpadilla/Object-Detection-Metrics.git
